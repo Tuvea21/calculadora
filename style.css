@@ -52,5 +52,6 @@ button:hover {
 button.zero {
   grid-column: span 2;
   border-radius: 30px;
-  width: 100%;
+ 
+  width: 100;
 }
