@@ -30,3 +30,4 @@ function calculate() {
 function updateDisplay() {
   display.textContent = current || "0";
 }
+// end
